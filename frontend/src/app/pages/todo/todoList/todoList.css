@@ -1,0 +1,41 @@
+.line{
+    background-color: var(--bg-2);
+    border-radius: 12px;
+    padding: 2rem;
+    opacity: 1;
+    transform: none;
+    background: #ecedf6;
+    margin-top: 10px;
+}
+.line li{
+    background-color: var(--gray-2);
+    border-radius: 8px;
+    color: var(--black-2);
+    font-size: 1.6rem;
+    font-weight: 500;
+    height: auto;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    width: -webkit-max-content;
+    width: max-content;
+    list-style: none;
+}
+
+.todoitem{
+    align-items: center;
+    background: var(--white);
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: white;
+}
+.iconwidth{
+    width: 50px;
+}
+.notodo{
+    text-align: center;
+    font-size: 32px;
+}

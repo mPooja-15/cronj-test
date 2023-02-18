@@ -1,0 +1,53 @@
+.addTaskBtn {
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    height: auto;
+    overflow: hidden;
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    text-transform: capitalize;
+    background: #646ff0;
+  }
+  .mainbtn {
+    color: var(--white);
+  }
+  .form__input{
+      width: 100%;
+  }
+  .inputtitle{
+      font-size: 1.6rem;
+      margin-bottom: 2rem;
+      margin-top: 0.5rem;
+      width: 100%;
+  
+  }
+  .selectinput{
+      font-size: 1.6rem;
+      margin-bottom: 2rem;
+      margin-top: 0.5rem;
+      width: 100%;
+  }
+  .mainbutton{
+      align-items: center;
+      display: flex;
+      gap: 1rem;
+      justify-content: flex-start;
+      margin-top: 2rem;
+  }
+  .mainbutton button{
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      display: inline-block;
+      font-size: 1.6rem;
+      font-weight: 500;
+      height: auto;
+      overflow: hidden;
+      padding: 0.8rem 2rem;
+      text-decoration: none;
+      text-transform: capitalize;
+  }
